@@ -1,0 +1,1 @@
+#Faça um programa que solicite ao usuario para digitar o seu nome e um numero qualquer e em seguida exiba seu nome varias vezes de acordo com o numero que ele digitou

@@ -1,0 +1,1 @@
+#Escreva um programa para pedir um número e em seguida o nome. Exiba o nome (uma letra de cada vez em cada linha) e repita isso para o numero de vezes que ele digitou

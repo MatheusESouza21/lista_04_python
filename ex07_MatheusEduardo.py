@@ -1,0 +1,1 @@
+#Peça ao usuario para inserir seu nome e um numero. Se o numero for menor que 10, exiba o nome dele ese numero de vezes caso contrario exia a mensagem "numero muito alto"

@@ -1,0 +1,1 @@
+#peça ao usuario para inserir seu nome e exibir cada letra do seu nome em uma linha separada(3 linhas)

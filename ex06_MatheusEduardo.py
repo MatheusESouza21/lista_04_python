@@ -1,0 +1,1 @@
+#Peça um numero abaixo de 50 e em seguida faça uma contagem regressiva de 50 ate esse número, certificando-se de mostrar o numero que eles inseriram na saida
